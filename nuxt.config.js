@@ -29,6 +29,9 @@ export default {
     '@nuxt/typescript-build',
     // https://go.nuxtjs.dev/stylelint
     '@nuxtjs/stylelint-module',
+
+    'pinia/nuxt',
+    'pinia-plugin-persist/nuxt',
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
