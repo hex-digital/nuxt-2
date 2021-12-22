@@ -30,7 +30,8 @@ export default {
     // https://go.nuxtjs.dev/stylelint
     '@nuxtjs/stylelint-module',
 
-    'pinia/nuxt',
+    '@nuxtjs/composition-api/module',
+    '@pinia/nuxt',
     'pinia-plugin-persist/nuxt',
   ],
 
